@@ -1,4 +1,4 @@
-##New
+### New
 
 
 This patch is for making Nethunter Parrot Os And Andrax Android kernels.
@@ -33,7 +33,7 @@ Https://github.com/aircrack-ng/rtl8812au v5.6.4.5
 
 
 
-##Old
+### Old
 
 This patch is for making Nethunter Parrot Os And Andrax Android kernels.
 
